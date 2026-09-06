@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="[#](https://wahed-protfolio.vercel.app/#projects)"><img src="https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
